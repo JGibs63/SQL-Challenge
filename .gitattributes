@@ -1,1 +1,1 @@
-*.jupyternotebook linguist-detectable=false
+*.py linguist-language=SQL
